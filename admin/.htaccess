@@ -1,0 +1,8 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+ RewriteRule ^([0-9a-zA-Z-_]+)$ ?accion=$1 [NC] 
+ RewriteRule ^(.*)_(.*)$ ?accion=$1&objeto=$2 [NC] 
+ RewriteRule ^(.*)-(.*)$ ?accion=$1&numid=$2 [NC]  
+
+
