@@ -3,7 +3,7 @@
 
 ### Descripcion
 
-Esta es una aplicaion SPA **(Single-Page Aplication)** donde tiene dos roles una administrador y otro para usuario normal. Esta app tiene un CRUD donde se puede agregar eleminar y actualizar los usuarios.
+Esta es una aplicacion SPA **(Single-Page Aplication)** donde tiene dos roles una administrador y otro para usuario normal, Ademas tiene un CRUD donde se puede agregar eliminar y actualizar los usuarios.
 
 ---
 
